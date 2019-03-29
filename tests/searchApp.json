@@ -1,0 +1,18 @@
+{
+	"status":
+	{
+		"code":200,
+		"message":"OK"
+	},
+	"data":
+	{
+		"list":
+		[{
+			"appid":"eu.faircode.netguard",
+			"name":"NetGuard - no-root firewall",
+			"seller":"Marcel Bokhorst",
+			"rating":4.2,
+			"icon":"https:\/\/lh3.googleusercontent.com\/W9KWjVSMLyXx72aYhqSxv55bBd0bgK6FVcbN5glnzse07fYfLOnklt-Gh4UzE2j1Y5s=w300"
+		}]
+	}
+}
